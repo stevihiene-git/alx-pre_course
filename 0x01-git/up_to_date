@@ -1,0 +1,5 @@
+#commands used:
+1. git checkout update_script
+2. git fetch origin
+3. git pull origin master
+4.git push origin update_script
