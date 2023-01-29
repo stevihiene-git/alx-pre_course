@@ -1,2 +1,2 @@
-This is my 2nd readme file as SE with ALX and I am supper excited
+This is my 2nd readme file as SE with ALX and I am supper excited.
 Updating for the final task
